@@ -1,0 +1,22 @@
+{
+  "name": "esnext-workflow-example",
+  "version": "0.0.1",
+  "description": "esnext-workflow-example",
+  "main": "es6.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "es3"
+  ],
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-plumber": "^1.0.1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-babel": "^5.1.0"
+  }
+}
